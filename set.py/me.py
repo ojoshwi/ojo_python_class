@@ -4,3 +4,7 @@ for items in fruits:
 
 friits.add("apple")
 print("friits")
+
+git config --global user.email "rayamajhiojoshwi051@gmail.com"
+git config --global user.name "ojoshwi"
+git commit -m "any message"
