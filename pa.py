@@ -11,4 +11,10 @@ for fruit in (empty_list):
 
 
 for index, fruit in enumerate(empty_list):
-    print(f"Item position: {index} and value: {fruit}")
+    print(f"Item position: {index} and value: {fruit}")  0?.,mnb vbl;'
+    4\]'[;plkjhgfcxzcvghjkl;'[
+    ]]';lkjbvcxzAsdftryuip[-\7
+    ':?>,mn bvgfbhj'p;[
+        ]['p-yutf  ']
+    ]]'
+    ]']' nbµnbvcbnm,nbcv
