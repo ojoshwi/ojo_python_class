@@ -82,3 +82,20 @@ def change_battery():
 
     print("Mission completed")
 alien_attack_game()
+
+
+def sum(*args):
+    result =0
+    for number in args:
+        result += number
+        return result
+
+def diff(a,b)
+    print(args)
+    print(kwargs)
+    result = 0
+    for number in args:
+        result += number
+    print(f"My full name is {kwargs['first_name']}" {kwargs})
+def phone()
+print("Enter your phone number")
